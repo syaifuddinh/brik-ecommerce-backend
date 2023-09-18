@@ -11,6 +11,10 @@
 - After all installing procedures done, run : yarn dev
 - This application would run on : http://localhost:3300, or any port did you wrote in .env
 
+## User for login
+- username : admin
+- password : 12345678
+
 ## Technologies
 - Typescript
 - Express JS
